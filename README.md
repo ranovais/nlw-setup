@@ -1,6 +1,5 @@
 
 
-<<<<<<< HEAD
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,5 +20,3 @@
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-=======
->>>>>>> 2b9a95b2aef559b3bcf7262c2bd356eba0336ff9
