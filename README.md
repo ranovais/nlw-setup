@@ -1,9 +1,6 @@
-<h1 align="center"> Habits </h1>
 
-<p align="center">
-NLW é um evento incrivel e gratuito, promovido pela Rocketseat para ensinar tecnologias WEB. <br/>
-</p>
 
+<<<<<<< HEAD
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,3 +21,5 @@ NLW é um evento incrivel e gratuito, promovido pela Rocketseat para ensinar tec
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+=======
+>>>>>>> 2b9a95b2aef559b3bcf7262c2bd356eba0336ff9
