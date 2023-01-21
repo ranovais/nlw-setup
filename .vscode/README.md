@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um aplicativo que tem como objetivo proporcionar uma auto-analise de tendencia de habitos.
 
-- [Acesse o projeto finalizado, online]
+- [Acesse o projeto finalizado, online] (https://ranovais.github.io/nlw-setup)
 
 ## 🔖 Layout
 
